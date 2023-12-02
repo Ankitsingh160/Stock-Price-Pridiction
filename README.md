@@ -46,3 +46,12 @@ tensorflow==1.2.1
 urllib3==1.8
 ```
 >>>>>>> abde5ed (first commit)
+
+### HOW TO RUN THE PROJECT-
+⚡ Email me at **singhankitkumar334@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
+
+### Need Code, Documents & Explanation video ? 
+
+## How to Reach me :
+
+### Mail : singhankitkumar334@gmail.com
